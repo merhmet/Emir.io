@@ -7,7 +7,7 @@
     width: 100%;
 }
 .row{
-    width: 90%;
+    width: 150%;
     height: 100vh;
     margin: auto;
     display: flex;
@@ -18,14 +18,14 @@
     flex-basis: 45%;
 }
 .slider{
-    height: 80vh;
+    height: 100vh;
     display: flex;
 }
 .product img{
     height: 19vh;
-    margin-bottom: 9px;
+    margin-bottom: 20px;
     cursor: pointer;
-    opacity: 0.6;
+  
 }
 
 .product img:hover{
@@ -86,7 +86,7 @@ button .fa{
     margin-right: 10px;
 }
 .related{
-    width: 40%;
+    width: 100%;
     margin: 0 auto 40px;
 }
 .related .row{
